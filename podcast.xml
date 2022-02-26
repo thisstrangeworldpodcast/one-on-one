@@ -6,9 +6,9 @@
         <title>One on One</title>
         <description><![CDATA[<p>One on One, hosted by Jack Acello and Noah Schwartz, is an all-encompassing basketball podcast, specifically focused on the NBA. Jack and Noah, long-time college roommates, spend much of their free time watching, analyzing, and debating the NBA, and now they get to bring those conversations to the airwaves! Be sure to tune in weekly for some of the best basketball content available!</p>
 ]]></description>
-        <link>https://podcasts.hightops.media/one-on-one/one-on-one/</link>
+        <link>https://one-on-one.hightops.media//</link>
 		
-        <itunes:image href='https://podcasts.hightops.media/one-on-one/one-on-one/assets/CoverArtSeason1.jpg'/>
+        <itunes:image href='https://one-on-one.hightops.media//assets/CoverArtSeason1.jpg'/>
         
 		<itunes:category text='Sports'>
             <itunes:category text='Football'/>
