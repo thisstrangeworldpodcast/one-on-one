@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Social Media Exclusive: National Championship Reaction</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_B02_SME-National-Championship-Reaction.mp3' length='7443720' type='audio/mpeg'/>
+			<guid>2022-04-05-SME-National-Championship-Reaction</guid>
+            <pubDate>Tue, 05 Apr 2022 13:00:00 -0400</pubDate>
+            <description><![CDATA[<p>For our second Social Media Exclusive, Jack and Noah go live and discuss the NCAA championship game between North Carolina and Kansas as the Jayhawks came back to capture the title.</p>
+
+<p>Don’t forget to follow One on One on Instagram to see these Social Media Exclusives live!<br />
+https://www.instagram.com/1on1pod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>542</itunes:duration>
+            <link>https://one-on-one.hightops.media//2022/04/05/SME-National-Championship-Reaction/</link>
+			<itunes:image href='https://one-on-one.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>bonus</itunes:episodeType>
+        </item>
+        <item>
             <title>Jazz needs a reboot, Grizzlies cruise right along, and the All-NBA Injured/Excuse teams</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_05_Jazz-needs-a-reboot.mp3' length='58217494' type='audio/mpeg'/>
 			<guid>2022-04-05-Jazz-needs-a-reboot</guid>
