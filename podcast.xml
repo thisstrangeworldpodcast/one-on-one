@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Social Media Exclusive: Play-In Tournament Night #3 Reaction</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_B04_SME-Play-In-Tournament-Night-3-Reaction.mp3' length='16376090' type='audio/mpeg'/>
+			<guid>2022-04-16-SME-Play-In-Tournament-Night-3-Reaction</guid>
+            <pubDate>Sat, 16 Apr 2022 01:30:00 -0400</pubDate>
+            <description><![CDATA[<p>For our fourth Social Media Exclusive, Jack and Noah go live and give their thoughts on the Pelicans and Hawks advancing to the playoffs.</p>
+
+<p>Don’t forget to follow One on One on Instagram to see these Social Media Exclusives live!<br />
+https://www.instagram.com/1on1pod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>982</itunes:duration>
+            <link>https://one-on-one.hightops.media//2022/04/16/SME-Play-In-Tournament-Night-3-Reaction/</link>
+			<itunes:image href='https://one-on-one.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>bonus</itunes:episodeType>
+        </item>
+        <item>
             <title>Social Media Exclusive: Play-In Tournament Night #1 Reaction</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_B03_SME-Play-In-Tournament-Night-1-Reaction.mp3' length='21270299' type='audio/mpeg'/>
 			<guid>2022-04-13-SME-Play-In-Tournament-Night-1-Reaction</guid>
