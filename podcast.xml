@@ -23,6 +23,31 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Conference Finals Overview and Top 10 Players Remaining in the Playoffs</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_12_Conference-Finals-Overview.mp3' length='34887024' type='audio/mpeg'/>
+			<guid>2022-05-24-Conference-Finals-Overview</guid>
+            <pubDate>Tue, 24 May 2022 14:00:00 +0100</pubDate>
+            <description><![CDATA[<p>This week on One on One, Jack and Noah discuss both conference finals matchups, the Warriors are a win away from the finals, and who has the best chance between the Celtics and the Heat. They also discuss the top 10 players remaining on the 3 title favorites.</p>
+
+<p>Note: This episode was recorded before Game 4 for Celtics vs Heat.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/1on1pod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2824</itunes:duration>
+            <link>https://one-on-one.hightops.media//2022/05/24/Conference-Finals-Overview/</link>
+			<itunes:image href='https://one-on-one.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>12</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>C’s and Mav's advance, what’s next for Philly and Phoenix, Conference Final previews</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_11_Cs-and-Mavs-advance.mp3' length='53009492' type='audio/mpeg'/>
 			<guid>2022-05-17-Cs-and-Mavs-advance</guid>
