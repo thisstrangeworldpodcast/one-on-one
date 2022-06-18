@@ -23,6 +23,29 @@
         <itunes:explicit>true</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Social Media Exclusive: NBA Finals Game 6! Warriors 2022 NBA Champs!</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_B11_SME-NBA-Finals-Game-6.mp3' length='33974198' type='audio/mpeg'/>
+			<guid>2022-06-17-SME-NBA-Finals-Game-6</guid>
+            <pubDate>Fri, 17 Jun 2022 09:00:00 -0400</pubDate>
+            <description><![CDATA[<p>In this Social Media Exclusive, Jack and Noah discuss Game 6 of the NBA finals, Golden State’s fourth title in eight years, and if they can win again next year. They also discuss what is next for the Celtics after losing the finals and the Dallas Mavericks recent acquisition of Christian Wood.</p>
+
+<p>Don’t forget to follow One on One on Instagram to see these Social Media Exclusives live!<br />
+https://www.instagram.com/1on1pod/</p>
+
+<p>A High Tops Media Podcast
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2122</itunes:duration>
+            <link>https://one-on-one.hightops.media//2022/06/17/SME-NBA-Finals-Game-6/</link>
+			<itunes:image href='https://one-on-one.hightops.media//assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>bonus</itunes:episodeType>
+        </item>
+        <item>
             <title>Social Media Exclusive: NBA Finals Game 5 Reaction with Lucas Jafet of Share the Rock</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/OoO/OoO_S01_B10_SME-NBA-Finals-Game-5-Reaction-with-Lucas-Jafet.mp3' length='32823838' type='audio/mpeg'/>
 			<guid>2022-06-14-SME-NBA-Finals-Game-5-Reaction-with-Lucas-Jafet</guid>
